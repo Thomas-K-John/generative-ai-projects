@@ -2,12 +2,15 @@
 ## Summary
 * This project demonstrates the integration of the LangChain framework with a locally hosted Large Language model called Gemma2, wrapped within a Streamlit application for an interactive user experience.
 * It serves as a practical showcase of building and deploying an AI-driven web application for Q&A systems using LangChain and Streamlit, enhancing both the development and user experience.
+
+### Command to run the app: `streamlit run scripts/simple_genai_app.py`
+  
 ## Key elements include:
 * Langsmith Tracking: Enables tracking and monitoring of LangChain processes for debugging and performance insights.
 * Prompt Engineering: Implements a structured prompt template designed for a conversational AI system to respond intelligently to user queries.
 * Streamlit Interface: Provides a simple and interactive UI where users can input their questions and receive real-time answers.
 * Model Integration: Leverages OllamaLLM with Gemma2:2b (a compact, open-source AI model from Google DeepMind that can perform tasks like text generation, translation, and answering questions)
-  
+
 ## Prerequisites
 1. Python Environment : Ensure Python 3.10 or higher is installed on your system.
    
