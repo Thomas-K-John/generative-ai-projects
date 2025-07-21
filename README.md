@@ -13,11 +13,5 @@ This repository contains my generative AI projects, tutorials, and resources as 
 - **`tutorials/`** - Jupyter notebooks and scripts covering techniques and concepts.
 - **`scripts/`** - Reusable scripts for data preprocessing, evaluation, and other utilities.
 
-## Key Areas of Focus
-1. **Transformer Architecture**
-2. **Prompt Engineering**
-3. **Retrieval-Augmented Generation (RAG)**
-4. **Vector Databases**
-
 Feel free to clone this repository and explore my projects or contribute if you'd like!
 
