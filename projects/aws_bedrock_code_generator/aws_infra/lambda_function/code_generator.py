@@ -54,7 +54,9 @@ def lambda_handler(event, context):
 
     if generated_code:
         current_time = datetime.now().strftime("%H%M%S")
-        s3_key = f"code-output/{current_time}.py"
+        ext_map = {"python": "py", "java": "java", "javascript": "js", "sql":"sql"}
+        file_ext = ext_map.get(language.lower(), "txt")
+        s3_key = f"code-output/{current_time}.{file_ext}"
         s3_bucket = "code-generator-aws-bedrock"
         save_code_to_s3_bucket(generated_code, s3_bucket, s3_key)
     else:
