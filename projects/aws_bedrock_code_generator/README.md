@@ -1,9 +1,7 @@
 # Project 2: AWS AI Code Generator with Bedrock, Lambda, API Gateway, S3, and Terraform
-
+## Architecture
 ![View the architecture diagram](https://github.com/Thomas-K-John/generative-ai-projects/blob/main/projects/aws_bedrock_code_generator/data/architecture.jpg)
-
 ## Summary
-
 - This project demonstrates a serverless AI-powered code generation service using Amazon Bedrock (Titan model) integrated with AWS Lambda and exposed via API Gateway.
 - The system allows users to send natural language programming instructions and receive ready-to-use source code in their preferred programming language.
 - Generated code is automatically stored in Amazon S3 for later retrieval.
