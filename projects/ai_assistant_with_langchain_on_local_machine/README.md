@@ -1,6 +1,6 @@
 # Project 1: Streamlit-Powered Generative AI Assistant with LangChain on Local Machine
 ## Summary
-* This project demonstrates the integration of the LangChain framework with a locally hosted Large Language model called Gemma2, wrapped within a Streamlit application for an interactive user experience.
+* This project demonstrates the integration of the LangChain framework with Gemma2 Large Language model locally hosted using Ollama, wrapped within a Streamlit application for an interactive user experience.
 * It serves as a practical showcase of building and deploying an AI-driven web application for Q&A systems using LangChain and Streamlit, enhancing both the development and user experience.
 
 ### Command to run the app: `streamlit run scripts/simple_genai_app.py`
