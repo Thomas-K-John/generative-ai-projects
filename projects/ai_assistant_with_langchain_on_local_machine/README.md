@@ -39,7 +39,7 @@
       * List Available Models: `ollama list`
       * Pull a Model: `ollama pull <model_name>` Eg: To pull Google gemma2:2b model:  `ollama pull gemma2:2b`
       * Run a Model: `ollama run <model_name>`
-      * Remove a Model: `ollama remove <model_name>`
+      * Remove a Model: `ollama rm <model_name>`
         
 NOTE: There is always the option to use --help to learn more about the conda and ollama commands. 
 
