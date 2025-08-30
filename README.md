@@ -7,6 +7,7 @@ This repository contains my generative AI projects, tutorials, and resources as 
 
   ### [Project 1: Streamlit-Powered Generative AI Assistant with LangChain on Local Machine](https://github.com/Thomas-K-John/generative-ai-projects/tree/main/projects/ai_assistant_with_langchain_on_local_machine)
   ### [Project 2: AWS AI Code Generator with Bedrock, Lambda, API Gateway, S3, and Terraform](projects/aws_bedrock_code_generator)
+  ### [Project 3: Generative AI Text-to-Speech Assistant (Bedrock, Polly, Strands Agents)](projects/text_to_speech_agent)
 
 ## Repository Structure
 - **`projects/`** - Individual projects with code, data, and results.
