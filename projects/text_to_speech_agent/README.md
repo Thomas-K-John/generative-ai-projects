@@ -1,4 +1,4 @@
-# Project 3: Agentic AI Text-to-Speech Assistant (Bedrock, Polly, Strands Agents)
+# Project 3: Agentic AI Text-to-Speech Assistant (Amazon Bedrock, Amazon Polly, Strands Agents)
 
 ## Project Overview
 - __Less Code (15 lines), More Logic in English (30 lines):__ This project demonstrates how agentic models and advances in Large Language Models (LLMs) are transforming traditional programming. Instead of writing scripts using programming languages, you can now describe tasks in natural language, and intelligent agents orchestrate the execution.
@@ -20,6 +20,7 @@ In this project, we use Strands Agents + AWS Polly to:
 - agentic_response.txt -> This is a step-by-step execution log of the strands agent. It shows the agent’s internal reasoning and tool usage as it processes the files in the input/ directory.
 ## Technologies Used
 - [Strands Agents](https://strandsagents.com/)
-- AWS Bedrock's  Amazon Nova Premier LLM
-- AWS Polly for speech synthesis
+- Amazon Bedrock's  Amazon Nova Premier LLM
+- Amazon Polly for speech synthesis
+
 
