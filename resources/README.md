@@ -6,7 +6,9 @@
         
 ##### [2. The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
 
-##### [3. Attention Is All You Need (pdf)](Attention_Is_All_You_Need.pdf)
+##### [3. Attention Is All You Need (pdf)](resources/Attention_Is_All_You_Need.pdf)
+
+##### [4. ReAct Synergizing Reasoning and Acting in Language Models](resources/ReAct Synergizing Reasoning and Acting in Language Models.pdf)
         
 
 
