@@ -4,6 +4,9 @@
 
 An intelligent chatbot that can answer questions about products and services. This is a Retrieval-Augmented Generation (RAG) chatbot system to provide intelligent customer support.
 
+## Architecture
+![View the architecture diagram](https://github.com/Thomas-K-John/generative-ai-projects/blob/main/projects/rag_chatbot/images/rag_chatbot_architecture.jpg)
+
 ## Key Objectives
 
 • Build a production-ready RAG system that processes multi-format documents.
