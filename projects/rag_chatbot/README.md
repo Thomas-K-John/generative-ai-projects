@@ -44,6 +44,7 @@ http://localhost:5000/
 ## Important Points regarding the system
 
   • Using a hybrid approach combining vector search and keyword search, followed by reranking the retrieved chunks.
+  
   • MLflow and RAGAs are used to evaluate multiple experimental configurations based on precision, recall, and truthfulness metrics.
 
 ## Limitations:
