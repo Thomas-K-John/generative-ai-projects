@@ -13,7 +13,7 @@ An intelligent chatbot that can answer questions about products and services. Th
 
 • Implement strict context grounding to prevent hallucination.
 
-• Demonstrate scalable architecture suitable for government applications.
+• Demonstrate scalable architecture.
 
 • Use RAGAs to evaluate system precision, recall, and truthfulness.
 
